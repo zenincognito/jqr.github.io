@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Speed up linux
-summary: Every time a file is read from your Linux ext3 partition it writes back a attribute to the file detailing the last access time. There are very few programs that actually use this to operate and it slows everything down.
+summary: Every time a file is read from your Linux ext3 partition it writes back a attribute to the file detailing the last access time.There are very few programs that actually use this to operate and it slows everything down.
 published: true
 ---
+
 Every time a file is read from your Linux ext3 partition it writes back a attribute to the file detailing the last access time. There are very few programs that actually use this to operate and it slows everything down.
 
 Disabling atime and diratime on your Linux ext3 file systems can improve disk performance up to 40%!
