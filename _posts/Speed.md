@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Speed up Linux
+title: Speed up linux
 summary: >-
   Every time a file is read from your Linux ext3 partition it writes back a
   attribute to the file detailing the last access time. There are very few
