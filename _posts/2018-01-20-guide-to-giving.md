@@ -1,7 +1,9 @@
 ---
+layout: post
+title: Guide to giving
+summary: All of us grow up in this community. We may be in different states or countries or simply different levels in the society
 published: true
 ---
-
 
 ## Guide to giving
 
