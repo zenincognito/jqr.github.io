@@ -1,6 +1,12 @@
 ---
 published: true
 ---
+---
+layout: post
+title: Guide to giving
+summary: All of us grow up in this community. We may be in different states or countries or simply different levels in the society
+---
+
 ## Guide to giving
 
 All of us grow up in this community. We may be in different states or countries or simply different levels in the society, but we all started here. So, it’s only fair to give something back to it; for all the good it has done to us and all the lessons it has taught us. Following are a few sites that you may find extremely useful in doing so.
